@@ -1,5 +1,5 @@
 
-<img src="https://github.com/pscretn/smart-hand-glove/blob/master/images/smart%20talk.gif" width="600"  />  <br><br>
+<img src="images/smart talk.gif" width="600"  />  <br><br>
 # smart-hand-glove
 Smart Talk for Sign language Translation is a work that aims to present an easy way of communication for speech impaired and hearing impaired people. Work consists
 of a glove equipped with sensors which senses different sign language gestures. This data is fed to ESP32 which is then transferred to an smartphone/laptop via
